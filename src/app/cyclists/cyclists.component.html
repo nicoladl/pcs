@@ -1,0 +1,5 @@
+<ul class="cyclists">
+  <li *ngFor="let cyclist of cyclists">
+    <p routerLink="/cyclist/{{cyclist.id}}">{{ cyclist.name }}</p>
+  </li>
+</ul>

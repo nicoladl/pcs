@@ -1,0 +1,8 @@
+<div
+  *ngIf="cyclist"
+  class="cyclist-detail">
+  <h1>{{ cyclist.name }}</h1>
+  <p>Team name: <a routerLink="/team/{{cyclist.team}}">{{ team.name }}</a></p>
+</div>
+
+<app-go-back></app-go-back>

@@ -1,0 +1,25 @@
+.message {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #e7e7e7;
+  padding:20px;
+
+  .content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 20px;
+
+    h2 {
+      font-weight: 700;
+    }
+
+    .clear {
+      background-color: #ea1;
+      padding: 10px;
+      color: #fff;
+      cursor: pointer;
+    }
+  }
+}

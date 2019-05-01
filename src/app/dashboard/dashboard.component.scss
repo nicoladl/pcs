@@ -1,0 +1,12 @@
+.cyclists {
+  display: flex;
+  flex-direction: column;
+
+  li {
+    margin: 10px 20px;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
