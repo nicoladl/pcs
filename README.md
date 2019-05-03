@@ -9,7 +9,7 @@
 ## To do
 
 - HttpClient
-- API requests
+- API requests (I can't find UCI World Tour API)
 - UI
 
 ### Version
