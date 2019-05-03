@@ -1,5 +1,7 @@
 # ProCyclingStats
 
+Pro Cycling Stats clone
+
 ## Views
 
 - Dashboard
@@ -11,6 +13,8 @@
 - HttpClient
 - API requests (I can't find UCI World Tour API)
 - UI
+- Race View
+- Stages View
 
 ### Version
 
